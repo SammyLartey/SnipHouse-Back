@@ -1,0 +1,27 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const REGISTER = 'REGISTER';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOADING = 'LOADING';
+export const FETCH_ADMIN = 'FETCH_ADMIN';
+export const ADD_USER = 'ADD_USER';
+export const FETCH_USERS = 'FETCH_USERS';
+export const CHANGE_YEAR = 'CHANGE_YEAR';
+export const FETCH_USAGE = 'FETCH_USAGE';
+export const FETCH_NUMBER_USERS = 'FETCH_NUMBER_USERS';
+export const FETCH_NUMBER_USERS_INFO = 'FETCH_NUMBER_USERS_INFO';
+export const DELETE_USERS = 'DELETE_USERS';
+export const ERROR = 'ERROR';
+export const AUTH = 'AUTH';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const ADD_BLOG = 'ADD_BLOG';
+export const FETCH_BLOGS = 'FETCH_BLOGS';
+export const DELETE_BLOG = 'DELETE_BLOG';
+export const FETCH_PRODUCT = 'FETCH_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const STOP_LOADING = 'STOP_LOADING';
+
+export const TIP_MESSAGE = 'TIP_MESSAGE';
+export const FETCH_ORDERS = 'FETCH_ORDERS';
+export const FETCH_BOOKING = 'FETCH_BOOKING';
+export const UPDATE_ORDER = 'UPDATE_ORDER';
